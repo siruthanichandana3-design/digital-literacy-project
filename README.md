@@ -30,8 +30,8 @@ Drafted two professional emails and created a social media do’s and don’ts c
 Prepared a case study on cybercrime and created a prevention checklist for students.
 
 ## Useful Links
-- **GitHub Profile:** [Add your GitHub profile link here]
-- **LinkedIn Profile:** [Add your LinkedIn profile link here]
+- **GitHub Profile:** https://github.com/siruthanichandana3-design/digital-literacy-project/edit/main/README.md
+- **LinkedIn Profile:** https://www.linkedin.com/in/chandana-siruthani-3861523a8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 - **Google Form Link:** [Paste your Google Form link here]
 
 ## Repository Structure
