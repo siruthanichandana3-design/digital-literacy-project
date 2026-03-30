@@ -1,8 +1,8 @@
 # Digital Literacy Project
 
 ## Student Details
-- **Name:** Chittela Venkata Sai Yaswanth Reddy
-- **Reg No:** 25MIM10202
+- **Name:** Siruthani Chandana
+- **Reg No:** 25MIM10086
 - **Branch:** Integrated M.Tech AI
 - **Batch:** 2025
 - **Course Code:** CSE0001 – Digital Literacy
@@ -32,7 +32,7 @@ Prepared a case study on cybercrime and created a prevention checklist for stude
 ## Useful Links
 - **GitHub Profile:** https://github.com/siruthanichandana3-design/digital-literacy-project/edit/main/README.md
 - **LinkedIn Profile:** https://www.linkedin.com/in/chandana-siruthani-3861523a8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-- **Google Form Link:** [Paste your Google Form link here]
+- **Google Form Link:** [https://docs.google.com/forms/d/e/1FAIpQLScnr1L7bA9Rx_6zdgdpRp8Iiz_z-PPbQL9Z_ESaMB7tt7kAhw/viewform?usp=publish-editor]
 
 ## Repository Structure
 - `task-1-presentation/` → Infographic
